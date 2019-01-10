@@ -7,6 +7,16 @@
 
 #### Xcode template for ReactorKit architecture
 
+##### Easy installation templates
+
+`->` download this folder
+
+`->` open this folder in terminal 
+
+`->` enter command "sh install_templates.sh"
+
+`->` and that's all 👍🏻 ✅
+
 Open your `application` folder, find here your `xcode` 
 
 `->` show package contents
