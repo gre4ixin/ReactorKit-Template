@@ -10,7 +10,7 @@
   <img alt="Codacy" src="https://api.codacy.com/project/badge/Grade/644199ef11074729afbadc2393a146af">
 </p>
 
-#### Xcode template for ReactorKit architecture
+#### Xcode template for [ReactorKit](https://github.com/ReactorKit/ReactorKit) architecture
 
 #### Easy installation templates
 
